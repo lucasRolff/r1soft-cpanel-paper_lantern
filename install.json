@@ -1,0 +1,11 @@
+[
+    {
+       "icon" : "r1soft.png",
+       "group_id" : "files",
+       "order" : 100,
+       "name" : "R1Soft Restore Backups",
+       "type" : "link",
+       "id" : "r1soft",
+       "uri" : "r1redirect.php"
+    }
+]
