@@ -22,7 +22,7 @@ Then we need to unzip it, and then pack it as another tar.bz2 file
 
 ```
 unzip ~/master.zip && rm ~/master.zip
-tar cfj ~/r1soft-cpanel-plugin.tar.bz2 ~/r1soft-cpanel-paper_lantern
+tar cfj ~/r1soft-cpanel-plugin.tar.bz2 ~/r1soft-cpanel-paper_lantern-master
 ```
 
 And then install the plugin for our templates
