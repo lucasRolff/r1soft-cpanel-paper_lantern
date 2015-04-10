@@ -18,17 +18,11 @@ First download this repository:
 cd ~ && wget https://github.com/lucasRolff/r1soft-cpanel-paper_lantern/archive/master.zip
 ```
 
-Then we need to unzip it, and then pack it as another tar.bz2 file
+Once downloaded, you can install it right away.
 
 ```
 unzip ~/master.zip && rm ~/master.zip
-tar cfj ~/r1soft-cpanel-plugin.tar.bz2 ~/r1soft-cpanel-paper_lantern-master
-```
-
-And then install the plugin for our templates
-
-```
-/usr/local/cpanel/scripts/install_plugin ~/r1soft-cpanel-plugin.tar.bz2
+/usr/local/cpanel/scripts/install_plugin ~/r1soft-cpanel-paper_lantern-master
 ```
 
 After this the installation should be done, and the icon should show up in Paper Lantern
